@@ -1,2 +1,6 @@
 # so101-robot-arm
-Building a HuggingFace SO-101 robotic arm. Taking care of the assembly, kinematics, and control, documented as I go
+
+Building a 5-degree-of-freedom arm, plus a 6th motor for the gripper.
+
+## End Goal
+Assemble, calibrate, and control the arm, then build up a software layer on top: kinematics derived by hand, a custom 3D-printed part I design myself, and an embedded sensor subsystem — documented here as I go.
