@@ -2,7 +2,7 @@
 
 Building a 5-degree-of-freedom arm, plus a 6th motor for the gripper.
 
-## Status (Last Updated: [16/09/2026])
+## Status (Last Updated: [29/09/2026])
 Arm is fully assembled and calibrated. Camera mount is designed but not currently in use. Working on deriving forward kinematics by hand.
 
 ## End Goal
